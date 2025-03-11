@@ -1,0 +1,30 @@
+.card-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.card-container .card {
+  max-width: 100%;
+}
+
+.dashboard__card__title {
+  margin-bottom: 15px;
+}
+
+.dashboard__card__list {
+  list-style-type: none;
+}
+
+.dashboard__card__item {
+  margin: 8px 0;
+}
+
+.dashboard__loading {
+  width: 100px;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: calc(50% - 50px);
+}
