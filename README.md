@@ -19,8 +19,11 @@ Uma aplicação web para restaurantes, onde usuários autenticados podem visuali
 ## 📌 Funcionalidades
 
 ✅ Autenticação de usuários via Firebase Authentication
+
 ✅ Proteção de rotas (usuários não autenticados são redirecionados)
+
 ✅ Listagem de clientes com CNPJ, nome, telefone e e-mail utilizando Firebase Realtime Database
+
 ✅ Carregamento com indicador de progresso
 
 <hr>
