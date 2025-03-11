@@ -13,6 +13,7 @@ Uma aplicação web para restaurantes, onde usuários autenticados podem visuali
 - Firebase Realtime Database
 - Vite para scaffolding e build
 - React Router
+- Cypress para testes E2E
 
 <hr>
 
@@ -72,6 +73,14 @@ FIREBASE_APP_ID=
 $ npm run dev
 ```
 Acesse em: http://localhost:5173
+
+## 🧪 Testes
+
+Para rodar os testes, execute:
+
+```
+$ npm run cypress:open
+```
 
 ## License 📃
 
